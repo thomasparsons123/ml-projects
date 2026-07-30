@@ -17,4 +17,6 @@ the ground up (Python, scikit-learn, and beyond).
   PyTorch that solves the XOR problem. Demonstrates hidden layers, backpropagation,
   and the training loop.
 
+- **[Linear Regression from Scratch](./LinearRegression)** — gradient
+  descent implemented by hand with NumPy to fit a line to data.
 *More projects coming as I work through neural networks, deep learning, and more.*
