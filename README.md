@@ -19,4 +19,7 @@ the ground up (Python, scikit-learn, and beyond).
 
 - **[Linear Regression from Scratch](./LinearRegression)** — gradient
   descent implemented by hand with NumPy to fit a line to data.
+
+- **[Neural Network from Scratch](./Neural_Net_Scratch)** — a 2-layer neural network
+  including **backpropagation** coded by hand, solving the XOR problem.
 *More projects coming as I work through neural networks, deep learning, and more.*
