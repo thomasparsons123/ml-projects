@@ -22,4 +22,8 @@ the ground up (Python, scikit-learn, and beyond).
 
 - **[Neural Network from Scratch](./Neural_Net_Scratch)** — a 2-layer neural network
   including **backpropagation** coded by hand, solving the XOR problem.
+
+- **[Image Classifier (Transfer Learning)](./Cats_vs_Dogs)** — a pretrained ResNet18
+  adapted to classify CIFAR-10 images, ~80% accuracy. Demonstrates transfer learning.
+  
 *More projects coming as I work through neural networks, deep learning, and more.*
