@@ -39,7 +39,7 @@ converging to ~0 on this clean data.
 ## Running it
 
 ```bash
-conda activate ml
+source .venv/bin/activate
 python linear_regression.py
 ```
 

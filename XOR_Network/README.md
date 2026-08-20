@@ -62,6 +62,6 @@ input [1.0, 1.0] -> predicted 0 (actual 0)
 ## Running it
 
 ```bash
-conda activate ml
+source .venv/bin/activate
 python XOR_Network.py
 ```

@@ -44,7 +44,7 @@ Loss converges to ~0 and the network classifies all four XOR cases correctly.
 ## Running it
 
 ```bash
-conda activate ml
+source .venv/bin/activate
 python neural_net_scratch.py
 ```
 

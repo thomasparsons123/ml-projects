@@ -44,7 +44,7 @@ than memorizing the training data.
 ## Running it
 
 ```bash
-conda activate ml
+source .venv/bin/activate
 python titanic_survival.py
 ```
 

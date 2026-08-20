@@ -1,0 +1,19 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data (downloaded at runtime)
+data/

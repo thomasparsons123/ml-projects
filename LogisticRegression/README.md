@@ -44,7 +44,7 @@ trend rather than overfitting to that noise — which is the desired behavior.
 ## Running it
 
 ```bash
-conda activate ml
+source .venv/bin/activate
 python logistic_regression.py
 ```
 

@@ -37,8 +37,8 @@ less than 0.05% of the network's parameters.
 ## Running it
 
 ```bash
-conda activate ml
-python Cats_vs_Dogs.py
+source .venv/bin/activate
+python transfer_learning.py
 ```
 
 Note: CIFAR-10 (~170MB) downloads automatically on first run into a local `data/`
